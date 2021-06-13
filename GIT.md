@@ -13,11 +13,24 @@
 ![image-20210613235009139](GIT.assets/image-20210613235009139.png)
 
 + ssh -T git@github.com  yes
+
 + git config --global user.email "mengfansong_kif@outlook.com"
+
 + git config --global user.name "KIF"
+
+  
+
++ git remote add origin git@github.com:KIF-Atlantis/C-Program-Markdown.git
+
 + git init
+
 + git add --all
+
 + git status
+
 + git commit -m "git test"
-+ 
+
++ git push origin master
+
++ git pull origin master
 
